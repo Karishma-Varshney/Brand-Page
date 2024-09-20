@@ -5,6 +5,7 @@ import HeroSection from './components/HeroSection'
 export default function App() {
   return (
     <>
+    {/* my components */}
       <Navbar />
       <HeroSection />
     </>
